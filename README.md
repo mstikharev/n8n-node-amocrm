@@ -39,6 +39,9 @@ It supports these operations:
 - Add modify and retrieve notes
 - Add modify and retrieve catalogs
 - Add modify and retrieve catalog elements
+- Link and unlink entities (leads, contacts, companies, customers, catalog elements)
+- Get entity links and relationships
+- Get custom field definitions for leads, contacts, and companies
 
 ## Credentials
 
